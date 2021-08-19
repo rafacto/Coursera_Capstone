@@ -1,5 +1,4 @@
-# Coursera_Capstone
-Capstone Project - Coursera IBM Data Science Certification
+# Applying Data Analysis and Machine Learning for Choosing a City to Live Abroad 
 
 Moving abroad and choosing a new city to live in is not easy. To reduce the number of possibilities, one can look at the sister cities of his/her current city. Sister cities are cities that establish a bond of cooperation on many factors like culture, health, education, transport, and economic development. Often the cities are located in different countries, developing a paradiplomacy relation, a relationship that does not depend on federal governments (which is what designates diplomacy). Typically, to become sisters two cities need to have similar features like the number of residents, historical facts, or economic sector.  Thus, moving to a sister city can be easier, since they share some features and have political facilitators.
   
